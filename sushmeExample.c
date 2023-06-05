@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "sushme-example.h"
+#include "sushmeExample.h"
 
 int main(int argc, char *argv[])
 {
