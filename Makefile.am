@@ -1,7 +1,7 @@
 AUTOMAKE_OPTIONS = foreign
 
 CFLAGS = -Wall -pedantic
-include_HEADERS = test.h
+include_HEADERS = sushme-example.h
 
-bin_PROGRAMS = test
-test_SOURCES = test.c
+bin_PROGRAMS = sushme-example
+sushme-example_SOURCES = sushme-example.c
