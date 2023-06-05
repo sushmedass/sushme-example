@@ -6,9 +6,4 @@
 #  include <config.h>
 #endif /* HAVE_CONFIG_H */
 
-/*
- * Example function
- */
-extern void helloFunc(void);
-
 #endif /* TEST_H */
