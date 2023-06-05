@@ -4,7 +4,7 @@
 #AC_PREREQ(2.60)
 AC_INIT(test, 1.0)
 AC_CONFIG_SRCDIR([test.c])
-AC_CONFIG_HEADER([test.h])
+AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(test, main)
 
 # Checks for programs.
