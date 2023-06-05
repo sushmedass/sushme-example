@@ -3,9 +3,9 @@
 
 #AC_PREREQ(2.60)
 AC_INIT(sushme-example, 0.1)
-AC_CONFIG_SRCDIR([sushme-example.c])
-AC_CONFIG_HEADER([config.h])
-AM_INIT_AUTOMAKE(sushme-example, main)
+AC_CONFIG_SRCDIR([test.c])
+AC_CONFIG_HEADER([test.h])
+AM_INIT_AUTOMAKE(test, main)
 
 # Checks for programs.
 AC_PROG_CC
